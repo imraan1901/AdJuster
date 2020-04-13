@@ -1,0 +1,1559 @@
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $12.00
+Total Number of Views: 32015
+Total Number of Clicks: 24044
+Total Number of Impressions: 217592
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $44.00
+Total Number of Views: 19437
+Total Number of Clicks: 16717
+Total Number of Impressions: 197564
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $26.00
+Total Number of Views: 5244
+Total Number of Clicks: 7968
+Total Number of Impressions: 73227
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 15476
+Total Number of Clicks: 23352
+Total Number of Impressions: 310647
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 21453
+Total Number of Clicks: 17358
+Total Number of Impressions: 151273
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 6208
+Total Number of Clicks: 3563
+Total Number of Impressions: 31167
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+Total Number of Views: 19581
+Total Number of Clicks: 26494
+Total Number of Impressions: 419116
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $33.00
+Total Number of Views: 21137
+Total Number of Clicks: 33017
+Total Number of Impressions: 319383
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $8.00
+Total Number of Views: 23436
+Total Number of Clicks: 14129
+Total Number of Impressions: 187772
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $40.00
+Total Number of Views: 26284
+Total Number of Clicks: 20654
+Total Number of Impressions: 350443
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $16.00
+Total Number of Views: 28382
+Total Number of Clicks: 26261
+Total Number of Impressions: 327936
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $43.00
+Total Number of Views: 5300
+Total Number of Clicks: 4669
+Total Number of Impressions: 106183
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+Total Number of Views: 33677
+Total Number of Clicks: 29641
+Total Number of Impressions: 271003
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $22.00
+Total Number of Views: 16779
+Total Number of Clicks: 19884
+Total Number of Impressions: 211261
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 31456
+Total Number of Clicks: 32511
+Total Number of Impressions: 468880
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $19.00
+Total Number of Views: 2935
+Total Number of Clicks: 1385
+Total Number of Impressions: 6484
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+Total Number of Views: 14368
+Total Number of Clicks: 12380
+Total Number of Impressions: 131785
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $34.00
+Total Number of Views: 14715
+Total Number of Clicks: 15645
+Total Number of Impressions: 224774
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 29340
+Total Number of Clicks: 22360
+Total Number of Impressions: 308837
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $37.00
+Total Number of Views: 24373
+Total Number of Clicks: 30482
+Total Number of Impressions: 279929
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $30.00
+Total Number of Views: 33838
+Total Number of Clicks: 32120
+Total Number of Impressions: 261543
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $47.00
+Total Number of Views: 27905
+Total Number of Clicks: 27851
+Total Number of Impressions: 345562
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 28796
+Total Number of Clicks: 28516
+Total Number of Impressions: 310497
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $0.00
+Total Number of Views: 13722
+Total Number of Clicks: 15206
+Total Number of Impressions: 146779
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $28.00
+Total Number of Views: 26191
+Total Number of Clicks: 30160
+Total Number of Impressions: 384105
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $34.00
+Total Number of Views: 20912
+Total Number of Clicks: 26619
+Total Number of Impressions: 332174
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $25.00
+Total Number of Views: 7313
+Total Number of Clicks: 5101
+Total Number of Impressions: 39648
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 14037
+Total Number of Clicks: 11215
+Total Number of Impressions: 194843
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $37.00
+Total Number of Views: 3472
+Total Number of Clicks: 5440
+Total Number of Impressions: 32628
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 19853
+Total Number of Clicks: 21002
+Total Number of Impressions: 305779
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $3.00
+Total Number of Views: 7797
+Total Number of Clicks: 7902
+Total Number of Impressions: 80620
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+Total Number of Views: 28574
+Total Number of Clicks: 26522
+Total Number of Impressions: 252612
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $40.00
+Total Number of Views: 2394
+Total Number of Clicks: 4839
+Total Number of Impressions: 52356
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $35.00
+Total Number of Views: 12213
+Total Number of Clicks: 19167
+Total Number of Impressions: 250214
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 9763
+Total Number of Clicks: 12508
+Total Number of Impressions: 84143
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $46.00
+Total Number of Views: 20308
+Total Number of Clicks: 16665
+Total Number of Impressions: 263777
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $29.00
+Total Number of Views: 6807
+Total Number of Clicks: 10750
+Total Number of Impressions: 127030
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $30.00
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 2092
+Total Number of Clicks: 666
+Total Number of Impressions: 8763
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $24.00
+Total Number of Views: 26043
+Total Number of Clicks: 17946
+Total Number of Impressions: 254438
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $25.00
+Total Number of Views: 16101
+Total Number of Clicks: 16092
+Total Number of Impressions: 193471
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 26594
+Total Number of Clicks: 43769
+Total Number of Impressions: 348063
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+Total Number of Views: 32572
+Total Number of Clicks: 31999
+Total Number of Impressions: 345085
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $19.00
+Total Number of Views: 31969
+Total Number of Clicks: 27662
+Total Number of Impressions: 338530
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $46.00
+Total Number of Views: 6444
+Total Number of Clicks: 13629
+Total Number of Impressions: 157022
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $34.00
+Total Number of Views: 6253
+Total Number of Clicks: 6572
+Total Number of Impressions: 85810
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $41.00
+Total Number of Views: 8466
+Total Number of Clicks: 6887
+Total Number of Impressions: 94355
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 15161
+Total Number of Clicks: 10557
+Total Number of Impressions: 163938
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $9.00
+Total Number of Views: 11032
+Total Number of Clicks: 5476
+Total Number of Impressions: 79732
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $1.00
+Total Number of Views: 11560
+Total Number of Clicks: 18940
+Total Number of Impressions: 161184
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 24546
+Total Number of Clicks: 32634
+Total Number of Impressions: 337030
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $31.00
+Total Number of Views: 28160
+Total Number of Clicks: 21330
+Total Number of Impressions: 280506
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $1.00
+Total Number of Views: 15805
+Total Number of Clicks: 7435
+Total Number of Impressions: 138502
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $16.00
+Total Number of Views: 6509
+Total Number of Clicks: 4539
+Total Number of Impressions: 57603
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $20.00
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $17.00
+Total Number of Views: 30660
+Total Number of Clicks: 27575
+Total Number of Impressions: 316410
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $25.00
+Total Number of Views: 5641
+Total Number of Clicks: 6273
+Total Number of Impressions: 72521
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $26.00
+Total Number of Views: 37576
+Total Number of Clicks: 37409
+Total Number of Impressions: 305062
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $43.00
+Total Number of Views: 10412
+Total Number of Clicks: 12941
+Total Number of Impressions: 125817
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $3.00
+Total Number of Views: 32731
+Total Number of Clicks: 33009
+Total Number of Impressions: 372622
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 22969
+Total Number of Clicks: 17981
+Total Number of Impressions: 218804
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 24606
+Total Number of Clicks: 29217
+Total Number of Impressions: 462845
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 23490
+Total Number of Clicks: 15051
+Total Number of Impressions: 256273
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $24.00
+Total Number of Views: 515
+Total Number of Clicks: 171
+Total Number of Impressions: 22018
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $6.00
+Total Number of Views: 25773
+Total Number of Clicks: 17426
+Total Number of Impressions: 426737
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $3.00
+Total Number of Views: 16894
+Total Number of Clicks: 25996
+Total Number of Impressions: 250463
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+Total Number of Views: 21713
+Total Number of Clicks: 12164
+Total Number of Impressions: 175496
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $33.00
+Total Number of Views: 7595
+Total Number of Clicks: 9532
+Total Number of Impressions: 104039
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $23.00
+Total Number of Views: 12058
+Total Number of Clicks: 8417
+Total Number of Impressions: 143924
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 18586
+Total Number of Clicks: 14886
+Total Number of Impressions: 298285
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 15184
+Total Number of Clicks: 19476
+Total Number of Impressions: 192222
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $23.00
+Total Number of Views: 26578
+Total Number of Clicks: 30845
+Total Number of Impressions: 266089
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 24040
+Total Number of Clicks: 23928
+Total Number of Impressions: 321022
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 29771
+Total Number of Clicks: 32548
+Total Number of Impressions: 268529
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $14.00
+Total Number of Views: 12077
+Total Number of Clicks: 9546
+Total Number of Impressions: 154836
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $23.00
+Total Number of Views: 12793
+Total Number of Clicks: 12786
+Total Number of Impressions: 154169
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $47.00
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $1.00
+Total Number of Views: 30737
+Total Number of Clicks: 29035
+Total Number of Impressions: 469298
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $24.00
+Total Number of Views: 8485
+Total Number of Clicks: 8665
+Total Number of Impressions: 85879
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $31.00
+Total Number of Views: 18330
+Total Number of Clicks: 13827
+Total Number of Impressions: 222498
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 27120
+Total Number of Clicks: 22835
+Total Number of Impressions: 309038
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $3.00
+Total Number of Views: 24024
+Total Number of Clicks: 20309
+Total Number of Impressions: 213100
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 15220
+Total Number of Clicks: 13069
+Total Number of Impressions: 219754
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $34.00
+Total Number of Views: 11759
+Total Number of Clicks: 7975
+Total Number of Impressions: 46552
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $28.00
+Total Number of Views: 9876
+Total Number of Clicks: 17552
+Total Number of Impressions: 80071
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $26.00
+Total Number of Views: 14312
+Total Number of Clicks: 10247
+Total Number of Impressions: 127735
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 15288
+Total Number of Clicks: 20608
+Total Number of Impressions: 202560
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $25.00
+Total Number of Views: 31293
+Total Number of Clicks: 27119
+Total Number of Impressions: 332519
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $2.00
+Total Number of Views: 23766
+Total Number of Clicks: 37598
+Total Number of Impressions: 416522
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+Total Number of Views: 18189
+Total Number of Clicks: 32191
+Total Number of Impressions: 249198
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $37.00
+Total Number of Views: 5423
+Total Number of Clicks: 4293
+Total Number of Impressions: 94464
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $12.00
+Total Number of Views: 29630
+Total Number of Clicks: 29293
+Total Number of Impressions: 306458
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 12868
+Total Number of Clicks: 11888
+Total Number of Impressions: 149942
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 18530
+Total Number of Clicks: 29023
+Total Number of Impressions: 336380
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $26.00
+Total Number of Views: 13769
+Total Number of Clicks: 15272
+Total Number of Impressions: 181037
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+Total Number of Views: 18455
+Total Number of Clicks: 7079
+Total Number of Impressions: 254589
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 7560
+Total Number of Clicks: 6810
+Total Number of Impressions: 63877
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 19506
+Total Number of Clicks: 20131
+Total Number of Impressions: 244339
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+Total Number of Views: 20884
+Total Number of Clicks: 32507
+Total Number of Impressions: 336635
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $41.00
+Total Number of Views: 10737
+Total Number of Clicks: 7869
+Total Number of Impressions: 153844
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $5.00
+Total Number of Views: 28611
+Total Number of Clicks: 24443
+Total Number of Impressions: 250478
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+Total Number of Views: 12430
+Total Number of Clicks: 9948
+Total Number of Impressions: 142868
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+Total Number of Views: 10659
+Total Number of Clicks: 9880
+Total Number of Impressions: 63569
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $2.00
+Total Number of Views: 34491
+Total Number of Clicks: 27934
+Total Number of Impressions: 287789
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 29489
+Total Number of Clicks: 33669
+Total Number of Impressions: 368289
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $33.00
+Total Number of Views: 2941
+Total Number of Clicks: 4444
+Total Number of Impressions: 67843
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $31.00
+Total Number of Views: 9957
+Total Number of Clicks: 11709
+Total Number of Impressions: 219583
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $35.00
+Total Number of Views: 7786
+Total Number of Clicks: 10803
+Total Number of Impressions: 114938
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+Total Number of Views: 28930
+Total Number of Clicks: 24163
+Total Number of Impressions: 265619
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $4.00
+Total Number of Views: 13383
+Total Number of Clicks: 5093
+Total Number of Impressions: 137501
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $37.00
+Total Number of Views: 10606
+Total Number of Clicks: 13235
+Total Number of Impressions: 93813
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $27.00
+Total Number of Views: 22119
+Total Number of Clicks: 24953
+Total Number of Impressions: 320760
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $49.00
+Total Number of Views: 23487
+Total Number of Clicks: 19827
+Total Number of Impressions: 250484
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $31.00
+Total Number of Views: 3459
+Total Number of Clicks: 4075
+Total Number of Impressions: 65403
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $17.00
+Total Number of Views: 10416
+Total Number of Clicks: 9427
+Total Number of Impressions: 74862
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $9.00
+Total Number of Views: 19141
+Total Number of Clicks: 20179
+Total Number of Impressions: 288895
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $11.00
+Total Number of Views: 21086
+Total Number of Clicks: 30728
+Total Number of Impressions: 299680
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+Total Number of Views: 401
+Total Number of Clicks: 2795
+Total Number of Impressions: 5900
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+Total Number of Views: 31899
+Total Number of Clicks: 34689
+Total Number of Impressions: 305539
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 20508
+Total Number of Clicks: 33702
+Total Number of Impressions: 181991
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $33.00
+Total Number of Views: 20442
+Total Number of Clicks: 34612
+Total Number of Impressions: 396521
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $30.00
+Total Number of Views: 30572
+Total Number of Clicks: 23427
+Total Number of Impressions: 273627
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $22.00
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $27.00
+Total Number of Views: 2934
+Total Number of Clicks: 2396
+Total Number of Impressions: 94809
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $19.00
+Total Number of Views: 30169
+Total Number of Clicks: 28817
+Total Number of Impressions: 241801
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 35569
+Total Number of Clicks: 21584
+Total Number of Impressions: 435744
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $17.00
+Total Number of Views: 8906
+Total Number of Clicks: 7748
+Total Number of Impressions: 145205
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $26.00
+Total Number of Views: 25097
+Total Number of Clicks: 22869
+Total Number of Impressions: 249036
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $23.00
+Total Number of Views: 23058
+Total Number of Clicks: 26269
+Total Number of Impressions: 234597
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $16.00
+Total Number of Views: 3152
+Total Number of Clicks: 5244
+Total Number of Impressions: 75497
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $14.00
+Total Number of Views: 7375
+Total Number of Clicks: 4149
+Total Number of Impressions: 32344
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $33.00
+Total Number of Views: 11143
+Total Number of Clicks: 10617
+Total Number of Impressions: 192887
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $40.00
+Total Number of Views: 10684
+Total Number of Clicks: 14081
+Total Number of Impressions: 200780
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $19.00
+Total Number of Views: 21802
+Total Number of Clicks: 24896
+Total Number of Impressions: 331469
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $1.00
+Total Number of Views: 24706
+Total Number of Clicks: 19382
+Total Number of Impressions: 230578
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $41.00
+Total Number of Views: 33434
+Total Number of Clicks: 24855
+Total Number of Impressions: 322140
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $32.00
+Total Number of Views: 10778
+Total Number of Clicks: 9429
+Total Number of Impressions: 75847
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $12.00
+Total Number of Views: 9999
+Total Number of Clicks: 7270
+Total Number of Impressions: 159988
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 20649
+Total Number of Clicks: 17962
+Total Number of Impressions: 119362
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $16.00
+Total Number of Views: 24604
+Total Number of Clicks: 19753
+Total Number of Impressions: 364001
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $20.00
+Total Number of Views: 12908
+Total Number of Clicks: 8196
+Total Number of Impressions: 129416
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $12.00
+Total Number of Views: 14374
+Total Number of Clicks: 17901
+Total Number of Impressions: 154205
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $2.00
+Total Number of Views: 4999
+Total Number of Clicks: 4020
+Total Number of Impressions: 51286
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $27.00
+Total Number of Views: 12715
+Total Number of Clicks: 15223
+Total Number of Impressions: 150184
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $16.00
+Total Number of Views: 11205
+Total Number of Clicks: 7931
+Total Number of Impressions: 74625
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $0.00
+Total Number of Views: 19395
+Total Number of Clicks: 19113
+Total Number of Impressions: 241000
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $17.00
+Total Number of Views: 4725
+Total Number of Clicks: 4852
+Total Number of Impressions: 85509
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+Total Number of Views: 15936
+Total Number of Clicks: 15614
+Total Number of Impressions: 217469
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $0.00
+Total Number of Views: 34368
+Total Number of Clicks: 26981
+Total Number of Impressions: 253324
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 20168
+Total Number of Clicks: 17417
+Total Number of Impressions: 127831
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+Total Number of Views: 3567
+Total Number of Clicks: 5071
+Total Number of Impressions: 40451
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 34677
+Total Number of Clicks: 28962
+Total Number of Impressions: 298141
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $14.00
+Total Number of Views: 21027
+Total Number of Clicks: 10695
+Total Number of Impressions: 209613
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 21134
+Total Number of Clicks: 17735
+Total Number of Impressions: 171727
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $29.00
+Total Number of Views: 18799
+Total Number of Clicks: 22739
+Total Number of Impressions: 405439
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 18944
+Total Number of Clicks: 24463
+Total Number of Impressions: 167518
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $5.00
+Total Number of Views: 34384
+Total Number of Clicks: 31619
+Total Number of Impressions: 449333
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $48.00
+Total Number of Views: 15396
+Total Number of Clicks: 8740
+Total Number of Impressions: 171107
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $28.00
+Total Number of Views: 22409
+Total Number of Clicks: 25641
+Total Number of Impressions: 275695
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $24.00
+Total Number of Views: 26503
+Total Number of Clicks: 20977
+Total Number of Impressions: 339172
+
+Advertiser: Adidas
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 21666
+Total Number of Clicks: 27282
+Total Number of Impressions: 243537
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $25.00
+Total Number of Views: 20713
+Total Number of Clicks: 21022
+Total Number of Impressions: 381431
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $5.00
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $45.00
+Total Number of Views: 21793
+Total Number of Clicks: 22588
+Total Number of Impressions: 459546
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $18.00
+Total Number of Views: 9423
+Total Number of Clicks: 11993
+Total Number of Impressions: 172106
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $6.00
+Total Number of Views: 37831
+Total Number of Clicks: 25626
+Total Number of Impressions: 363846
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 30403
+Total Number of Clicks: 28045
+Total Number of Impressions: 432590
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $49.00
+Total Number of Views: 21571
+Total Number of Clicks: 23041
+Total Number of Impressions: 290341
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $3.00
+Total Number of Views: 31347
+Total Number of Clicks: 31519
+Total Number of Impressions: 447610
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 17059
+Total Number of Clicks: 17508
+Total Number of Impressions: 100561
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $29.00
+Total Number of Views: 827
+Total Number of Clicks: 2741
+Total Number of Impressions: 13918
+
+Advertiser: Telemundo
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $28.00
+Total Number of Views: 14484
+Total Number of Clicks: 16899
+Total Number of Impressions: 118848
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $43.00
+Total Number of Views: 25832
+Total Number of Clicks: 34135
+Total Number of Impressions: 440283
+
+Advertiser: AT&T
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 1840
+Total Number of Clicks: 3029
+Total Number of Impressions: 61996
+
+Advertiser: ATT
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $22.00
+Total Number of Views: 31183
+Total Number of Clicks: 26436
+Total Number of Impressions: 303089
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $39.00
+Total Number of Views: 3694
+Total Number of Clicks: 4998
+Total Number of Impressions: 115029
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 13029
+Total Number of Clicks: 19607
+Total Number of Impressions: 317060
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $35.00
+Total Number of Views: 23954
+Total Number of Clicks: 29562
+Total Number of Impressions: 284489
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $29.00
+Total Number of Views: 23372
+Total Number of Clicks: 17635
+Total Number of Impressions: 288675
+
+Advertiser: ChaseBank
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+Total Number of Views: 30556
+Total Number of Clicks: 34859
+Total Number of Impressions: 435387
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $7.00
+Total Number of Views: 7514
+Total Number of Clicks: 9756
+Total Number of Impressions: 100336
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $43.00
+Total Number of Views: 7397
+Total Number of Clicks: 5838
+Total Number of Impressions: 70183
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $43.00
+Total Number of Views: 27173
+Total Number of Clicks: 26375
+Total Number of Impressions: 371753
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $21.00
+Total Number of Views: 10426
+Total Number of Clicks: 21770
+Total Number of Impressions: 224575
+
+Advertiser: ESPN
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $38.00
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 27175
+Total Number of Clicks: 29934
+Total Number of Impressions: 326490
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $30.00
+Total Number of Views: 4395
+Total Number of Clicks: 8899
+Total Number of Impressions: 128842
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $13.00
+Total Number of Views: 28814
+Total Number of Clicks: 25697
+Total Number of Impressions: 341507
+
+Advertiser: Puma
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $46.00
+Total Number of Views: 9864
+Total Number of Clicks: 11672
+Total Number of Impressions: 146093
+
+Advertiser: MLS
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $47.00
+Total Number of Views: 14172
+Total Number of Clicks: 17564
+Total Number of Impressions: 200544
+
+Advertiser: Coca-cola
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $31.00
+Total Number of Views: 8302
+Total Number of Clicks: 13449
+Total Number of Impressions: 77711
+
+Advertiser: NBA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $15.00
+
+Advertiser: Nike
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $38.00
+Total Number of Views: 36731
+Total Number of Clicks: 31551
+Total Number of Impressions: 297961
+
+Advertiser: FIFA
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $10.00
+Total Number of Views: 11966
+Total Number of Clicks: 13913
+Total Number of Impressions: 185570
+
+Advertiser: Nordstrom
+Start Date: 2018-06-28
+End Date: 2018-06-28
+Cpm: $24.00
+Total Number of Views: 31166
+Total Number of Clicks: 36826
+Total Number of Impressions: 458215
+
