@@ -63,11 +63,11 @@ public class AdJuster {
         // Print the data in the desired format to the output file
         PrintStream fileOut = new PrintStream("./output.txt");
         System.setOut(fileOut);
-        printData(campaignList, false);
+        printData(campaignList);
     }
 
     // Print the data
-    private static void printData(ArrayList<Campaigns> campaignList, boolean toFile) {
+    private static void printData(ArrayList<Campaigns> campaignList) {
 
         for(int i = 0; i < campaignList.size(); i++) {
 
