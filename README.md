@@ -1,5 +1,5 @@
 # AdJuster Challenge
-Write a program in java that:
+Write a program in Java that:
 
 * Consumes data from the following end points:
     * http://homework.ad-juster.com/api/campaigns 
