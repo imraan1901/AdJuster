@@ -1,4 +1,4 @@
-# AdJuster 
+# AdJuster Project
 Wrote a program in Java that:
 
 * Consumes data from the following end points:
